@@ -1,8 +1,8 @@
-# SlowPerformanceMonitor
+# How to use? 
 
 Pls feel free to download SlowPerformanceMonitor1.0.zip and unzip it, then run SlowPerformanceMonitor.exe to launch the app.
 
-# Known issue for IE:
+# Known issue for IE 
 
 Error code "Unable to get IE" - Need to download the registry key from https://heliumhq.com/docs/internet_explorer.
 

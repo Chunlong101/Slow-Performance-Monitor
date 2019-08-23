@@ -2,7 +2,7 @@
 
 1.	Pls navigate to https://github.com/Chunlong101/SlowPerformanceMonitor, download and unzip “SlowPerformanceMonitor.zip”. 
 
-2.	Pls run “SlowPerformanceMonitor.exe” then change the settings properly to meet your requirement, below are default settings for example: 
+2.	Pls run “SlowPerformanceMonitor.exe” then change the settings properly to meet your requirement. 
 
 3.	Pls click on “Play” button then you will see a browser will be opened up automatically, that browser will keep capturing logs, generating performance metrics and sending emails once there’s a slow performance detected. 
 
@@ -12,7 +12,7 @@ Sleep time – SPM (Slow Performance Monitor) will start capturing logs every 3 
 
 Page load threshold – If a page takes more than 10 seconds (by default) to be loaded then SPM considers it as slow page load. 
 
-Slow performance reoccurrence threshold – If more than 3 (by default) slow page load were detected continuously, then SPM considers it as Slow performance and starts to send email notifications.  
+Slow performance reoccurrence threshold – If more than 3 (by default) slow page load were detected continuously, then SPM considers it as slow performance and starts to send email notifications.  
 
 SMTP address – This depends on what email service provider you’d like to use and send the email notifications with, pls search online for the email service provider smtp address/port if you wanna use yours. By default, it’s my QQ email, which means people on the To line will be receiving slow performance alter from my QQ email address once there’s a slow performance detected. 
 

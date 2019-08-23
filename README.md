@@ -16,6 +16,10 @@ Slow performance reoccurrence threshold – If more than 3 (by default) slow pag
 
 SMTP address – This depends on what email service provider you’d like to use and send the email notifications with, pls search online for the email service provider smtp address/port if you wanna use yours. By default, it’s my QQ email, which means people on the To line will be receiving slow performance alter from my QQ email address once there’s a slow performance detected. 
 
+# Pls note
+
+Running client probing, depending on the sampling rate, it’s prone to be added to firewall’s blacklist. It’s putting unnecessary pressure to the system. 
+
 # Known issue for IE 
 
 Error code "Unable to get IE"
